@@ -66,7 +66,7 @@ I am currently working full-time at WayBeyond, but I am always open to freelanci
 - Mobile: React Native, Ionic Framework
 - DevOps: Docker, Terraform, Buildkite, AWS -->
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <h4 align="center">Repo Stats</h4>
 <p align="center">
