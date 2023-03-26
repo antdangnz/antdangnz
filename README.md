@@ -13,7 +13,7 @@
 <!-- &theme=light -->
 <p align="center">
   <a href="https://www.mitre10.co.nz/">
-    <img height="30em" src="https://skillicons.dev/icons?i=react,js,ts,java,postgres,graphql,vscode,linux" />
+    <img height="30em" src="https://skillicons.dev/icons?i=react,ts,java,postgres,graphql,vscode,linux" />
   </a>
 </p>
 
