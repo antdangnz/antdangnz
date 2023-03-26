@@ -75,10 +75,10 @@ I am currently working full-time at WayBeyond, but I am always open to freelanci
 
 <h4 align="center">GitHub Streaks</h4>
 <p align="center">
-  <img height="237em" src="https://streak-stats.demolab.com?user=antdangnz&theme=merko&date_format=j%20M%5B%20Y%5D" alt="Anthony's Github Stats" align = "center"/>
+  <img height="237em" src="https://streak-stats.demolab.com?user=antdangnz&theme=merko&date_format=j%20M%5B%20Y%5D" alt="Anthony's streak stats" align = "center"/>
 <p>
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdangnz&count_private=true&show_icons=true&theme=merko" alt="Anthony's Github Stats" align = "center"/>
+  <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antdangnz&count_private=true&show_icons=true&theme=merko" alt="Anthony's Language Stats" align = "center"/>
 <p>
